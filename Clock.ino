@@ -13,7 +13,7 @@ DS3231 rtc(SDA , SCL);
 void setup() {
   // Begin Modules
   rtc.begin();  // RTC
-  lcd.init(     // LCD
+  lcd.init();  // LCD
 
   // Turn the backlight on
   lcd.backlight();
