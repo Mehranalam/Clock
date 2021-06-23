@@ -11,3 +11,8 @@ build clock with Arduino :)
 | ------------- | ------------- |
 | beard bord | LCD 1602 + I2C |
 | DS3231 | for clock and calender |
+
+## Help :)
+
+- you can help me for this project by adding your ideas to this project ;)
+**special thanks**: github.com/BlackIQ
