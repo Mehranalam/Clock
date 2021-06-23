@@ -15,4 +15,6 @@ build clock with Arduino :)
 ## Help :)
 
 - you can help me for this project by adding your ideas to this project ;)
-**special thanks**: github.com/BlackIQ
+
+
+**special thanks**: ![Amir](github.com/BlackIQ)
