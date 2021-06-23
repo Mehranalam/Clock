@@ -1,4 +1,9 @@
 # Clock
 build clock with Arduino :)
 
-![alt](https://raw.githubusercontent.com/Mehranalam/Clock/main/Clock-Shamatik.png)
+<p align="center">
+  <img src ="(https://raw.githubusercontent.com/Mehranalam/Clock/main/Clock-Shamatik.png">
+</p>
+
+## Essentials
+
