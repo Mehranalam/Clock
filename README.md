@@ -1,5 +1,5 @@
 # Clock
-![langUse](https://img.shields.io/github/languages/top/distroteam/find-ip)
+![langUse](https://img.shields.io/github/languages/top/mehranalam/clock)
 
 build clock with Arduino :)
 
