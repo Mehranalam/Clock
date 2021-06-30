@@ -1,4 +1,6 @@
 # Clock
+![langUse](https://img.shields.io/github/languages/top/distroteam/find-ip)
+
 build clock with Arduino :)
 
 <p align="center">
