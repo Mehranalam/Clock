@@ -1,6 +1,5 @@
 # Clock
-![langUse](https://img.shields.io/github/languages/top/mehranalam/clock)
-
+![langUse](https://img.shields.io/github/languages/top/mehranalam/clock?style=flat-square)
 build clock with Arduino :)
 
 <p align="center">
