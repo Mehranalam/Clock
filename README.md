@@ -1,6 +1,5 @@
 # Clock
 ![langUse](https://img.shields.io/github/languages/top/mehranalam/clock?style=flat-square)
-build clock with Arduino :)
 
 <p align="center">
   <img src ="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/Jessica-Chastain-in-Interstellar-fire-crops.jpg">
