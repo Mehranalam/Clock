@@ -1,7 +1,6 @@
 # Clock
 <p align="center">
   <img src ="https://raw.githubusercontent.com/Mehranalam/Mehranalam/main/assets/Jessica-Chastain-in-Interstellar-fire-crops.jpg">
-  funy clock ;)
   <br>
   <a href="https://github.com/mehranalam/clock" target="blank">
 <img src="https://img.shields.io/github/stars/mehranalam/clock?style=flat-square" alt="Repo stars"/>
