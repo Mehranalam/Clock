@@ -8,7 +8,7 @@
   <a href="https://github.com/mehranalam/clock/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/mehranalam/clock?style=flat-square" alt="Repo license" />
 </a>
-  <img src="https://img.shields.io/github/languages/code-size/mehranalam/Fibonacci-SEN?style=flat-square">
+  <img src="https://img.shields.io/github/languages/code-size/mehranalam/clock?style=flat-square">
 </p>
 
 ## Essentials
