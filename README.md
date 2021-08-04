@@ -2,7 +2,6 @@
 <div align="center">
   <img src ="https://www.nsmbl.nl/wp-content/uploads/2020/11/Schermafbeelding-2020-11-24-om-12.33.25.png">
     <p><i> build a simple clock with Arduino Board</i></p>
-  <br>
   <a href="https://github.com/mehranalam/clock" target="blank">
 <img src="https://img.shields.io/github/stars/mehranalam/clock?style=flat-square" alt="Repo stars"/>
 </a>
