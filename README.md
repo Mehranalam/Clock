@@ -7,7 +7,7 @@
 
 ## Map
 
-![)(](Clock-Shamatik.png)
+![)(](assets/Clock-Shamatik.png)
 
 Building a reliable physical clock with some electrical knowledge and an Arduino board
 
